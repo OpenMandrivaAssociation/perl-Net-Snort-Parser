@@ -11,7 +11,6 @@ Source0:	http://www.shmoo.com/~bmc/software/snortconfig/%{module}-%{version}.tar
 BuildRequires:	perl-devel
 BuildArch:	noarch
 Provides:	snortconfig
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 snortconfig is a rules modification system for snort that is generated from a
