@@ -3,7 +3,7 @@
 Summary:	A simple yet complicated rules maintance system for Snort
 Name:		perl-%{module}
 Version:	1.36
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	BSD
 Group:		Development/Perl
 URL:		http://www.shmoo.com/~bmc/software/snortconfig/
