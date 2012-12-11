@@ -50,3 +50,39 @@ make test
 %{_mandir}/*/*
 
 
+
+
+%changelog
+* Fri Sep 04 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.36-5mdv2010.0
++ Revision: 430515
+- rebuild
+
+* Thu Jul 31 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.36-4mdv2009.0
++ Revision: 258126
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.36-3mdv2009.0
++ Revision: 246173
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 1.36-1mdv2008.1
++ Revision: 140694
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Fri Jan 26 2007 Oden Eriksson <oeriksson@mandriva.com> 1.36-1mdv2007.0
++ Revision: 113844
+- Import perl-Net-Snort-Parser
+
+* Fri Jan 26 2007 Oden Eriksson <oeriksson@mandriva.com> 1.36-1mdv2007.1
+- 1.36
+
+* Sun Dec 25 2005 Oden Eriksson <oeriksson@mandriva.com> 1.21-2mdk
+- rebuild
+
+* Mon Nov 01 2004 Oden Eriksson <oeriksson@mandrakesoft.com> 1.21-1mdk
+- initial mandrake package
+
