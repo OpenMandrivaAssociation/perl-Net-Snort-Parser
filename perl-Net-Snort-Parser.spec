@@ -6,7 +6,7 @@ Version:	1.36
 Release:	7
 License:	BSD
 Group:		Development/Perl
-URL:		http://www.shmoo.com/~bmc/software/snortconfig/
+URL:		https://www.shmoo.com/~bmc/software/snortconfig/
 Source0:	http://www.shmoo.com/~bmc/software/snortconfig/%{module}-%{version}.tar.bz2
 BuildRequires:	perl-devel
 BuildArch:	noarch
