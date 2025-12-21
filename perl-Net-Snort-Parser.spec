@@ -8,6 +8,7 @@ License:	BSD
 Group:		Development/Perl
 URL:		https://www.shmoo.com/~bmc/software/snortconfig/
 Source0:	http://www.shmoo.com/~bmc/software/snortconfig/%{module}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildArch:	noarch
 Provides:	snortconfig
